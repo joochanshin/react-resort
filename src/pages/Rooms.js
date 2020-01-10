@@ -20,4 +20,6 @@ show github/projects
 Having those links in AngelList profile
 
 Franco, Friday After 2
-18 people*/
+18 people
+
+Finish this by tonight*/
